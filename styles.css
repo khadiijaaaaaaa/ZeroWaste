@@ -22,7 +22,6 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     background-color: var(--bg-color);
-    margin-top: 0%;
 }
 
 .nav-links a {
@@ -80,10 +79,10 @@ body {
 }
 
 .fridge-icon {
-    width: 330px; 
-    height: 330px;
+    width: 300px; 
+    height: 300px;
     margin-left: 10%;
-    margin-top: -6%;
+    margin-top: -10%;
 }
 
 .title {
@@ -100,7 +99,6 @@ body {
     display: block; /* Block display */
     margin-right: 40%; /* Optional: remove default margin */
     font-size: 20px;
-    margin-top: -6%;
 }
 
 /* Right Section */
@@ -146,7 +144,6 @@ body {
     padding-left: 10%; /* Optional: remove default margin */
     padding-right: 30%;
     font-size: 20px;
-    margin-top: -6%;
 }
 
 /*Icon container */
